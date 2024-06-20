@@ -1,6 +1,9 @@
 streamlit==1.5.0
-tensorflow==2.17.0-rc0
+tensorflow==streamlit==1.8.0  # Update to the latest stable version
+tensorflow==2.6.0  # Specify a valid TensorFlow version (latest stable at the time of writing)
 opencv-python==4.5.3.56
 numpy==1.21.0
 pillow==8.3.1
+
+
 
