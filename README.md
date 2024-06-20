@@ -4,6 +4,7 @@ I have prepared this project using tensorflow .
 for fronend part kindly   use colab and while using it make sure that you have attached app.py in your colab and write the code below..
 
 ! pip install streamlit -q
+
 !wget -q -O - ipv4.icanhazip.com
 
 !streamlit run app.py & npx localtunnel --port 8501
